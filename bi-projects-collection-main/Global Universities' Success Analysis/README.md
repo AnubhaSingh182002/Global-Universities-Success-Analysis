@@ -185,13 +185,13 @@ Seamlessly navigate the project with these simple steps:
 Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
 
 - **Open an Issue:**
-  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/Global-Universities-Success-Analysis/issues).
+  - For bug reports or feature requests, [open an issue](https://github.com/AnubhaSingh182002/Global-Universities-Success-Analysis/issues).
 
 - **Submit a Pull Request:**
-  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/Global-Universities-Success-Analysis/pulls).
+  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/AnubhaSingh182002/Global-Universities-Success-Analysis/pulls).
 
 - **Reach Out:**
-  - You can [reach out via email](virajnbhutada24@gmail.com).
+  - You can [reach out via email](singhanubha805@gmail.com).
 
 ### Git Clone
 
@@ -210,7 +210,7 @@ Your active engagement enhances the quality of this project, and your valuable i
 
 ## Connect With Me 🌐
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+**[![LinkedIn](https://www.linkedin.com/in/anubha-singh-042002226/)]**
 
 ---
 
